@@ -1,0 +1,3 @@
+﻿  SocketConnection.cpp
+C:\Users\MIRTEK\Desktop\pr\bytestaf\bytestaff\bytestaff\SocketConnection.cpp(50,101): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  bytestaff.vcxproj -> C:\Users\MIRTEK\Desktop\pr\bytestaf\bytestaff\x64\Debug\bytestaff.exe
