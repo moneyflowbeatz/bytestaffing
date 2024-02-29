@@ -1,5 +1,6 @@
 # bytestaffing
-A program designed to calculate the checksum (CRC16) of packets received through requests to the server using sockets
+A dev-program designed to calculate the checksum (CRC16) of packets received through requests to the server using sockets
+The program is aimed at helping developers monitor data integrity when processing server requests
 ## **How you can use it?**
 First, you must issue a request to the server, transmitted in bytes. The host and port is specified in the following code:
 ```
